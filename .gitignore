@@ -1,0 +1,19 @@
+
+# Secrets
+.env
+
+# Environnement Python
+.venv/
+__pycache__/
+*.pyc
+
+# Outils
+.pytest_cache/
+.ruff_cache/
+
+# Base vectorielle locale
+chroma_db/
+
+# Données sources (on garde seulement le dossier)
+data/raw/*
+!data/raw/.gitkeep
