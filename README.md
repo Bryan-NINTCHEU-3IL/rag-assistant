@@ -1,4 +1,4 @@
-# RAG Assistant – Base de connaissances interne
+# RAG Assistant – Assistant de révision sur supports de cours 
 
 ## Contexte et objectif
 Problème métier, utilisateurs cibles, valeur apportée.
