@@ -17,3 +17,4 @@ chroma_db/
 # Données sources (on garde seulement le dossier)
 data/raw/*
 !data/raw/.gitkeep
+data/excluded/
